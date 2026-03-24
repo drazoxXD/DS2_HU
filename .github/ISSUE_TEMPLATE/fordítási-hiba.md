@@ -7,6 +7,8 @@ assignees: drazoxXD
 
 ---
 
-# KÉP
+### Kép vagy videó vagy szöveg 
 
-# Mi lenne jobb helyette?
+### Mi lenne jobb helyette?
+
+### Verzió szám? (Pl.: 1.1 vagy 1.0 stb...)
