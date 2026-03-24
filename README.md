@@ -10,4 +10,4 @@ UPDATE: Nem folytatom tovább, PR-ek el lesznek fogadva de én személy szerint 
 <img width="2033" height="1327" alt="Képernyőkép 2026-03-24 171731" src="https://github.com/user-attachments/assets/ee2203fc-2559-431d-8469-dee45efd1d3b" />
 
 # Köszönet (Thanks to the following people <3)
-[ShadelessFox/death-stranding-2-localizer](https://github.com/ShadelessFox/death-stranding-2-localizer/releases/latest) – Szövegcsere megoldás
+[ShadelessFox/death-stranding-2-localizer](https://github.com/ShadelessFox/death-stranding-2-localizer/releases/latest) – The localization tool and dumping all text from the game
