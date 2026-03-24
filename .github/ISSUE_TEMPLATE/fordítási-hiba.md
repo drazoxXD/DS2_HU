@@ -7,6 +7,6 @@ assignees: drazoxXD
 
 ---
 
-** KÉP **
+# KÉP
 
-** Mi lenne jobb helyette? **
+# Mi lenne jobb helyette?
